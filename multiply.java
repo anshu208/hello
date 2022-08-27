@@ -1,4 +1,4 @@
-public class hello{
+public class multiply {
     public static void main(String args[]){
         int a = 2;
         int b = 3;
@@ -6,4 +6,6 @@ public class hello{
         System.out.println("sum is : "+sum);
 
     }
+
+    
 }
